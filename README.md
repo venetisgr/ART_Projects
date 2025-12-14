@@ -41,3 +41,10 @@ To run the notebooks locally:
 1. Clone this repository  
    ```bash
    git clone https://github.com/venetisgr/ART_Projects.git
+
+## Future TODO
+
+1. Train the transcript agents to extract as many calls as possible
+2. Add reward for taking less turns
+3. Maintain individual checkpoints in order to rollback in older steps in case policy fails
+4. Add final step saving
