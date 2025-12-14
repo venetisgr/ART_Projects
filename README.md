@@ -30,7 +30,7 @@ This notebook extends the basic workflow of art_call by introducing:
 
 ---
 
-ART’s design supports seamless RL integration and abstracts complex elements like environments, rollouts, and policy optimization. :contentReference[oaicite:2]{index=2}
+ART’s design supports seamless RL integration and abstracts complex elements like environments, rollouts, and policy optimization. 
 
 ---
 
