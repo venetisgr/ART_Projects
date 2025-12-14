@@ -16,31 +16,19 @@ This notebook demonstrates a **basic ART workflow**:
 - How to send agent rollouts to ART for reinforcement updates
 - How to inspect intermediate rewards and policy updates
 - Basic examples of agent behavior improvement over training
-
-This notebook is ideal as a starting point if you are new to ART and want to see how reinforcement learning can influence agent performance.
+- RULER framework is utilized for automatic scoring
 
 ---
 
 ### 🤖 `art_call_custom_judge.ipynb`
 
-This notebook extends the basic workflow by introducing:
+This notebook extends the basic workflow of art_call by introducing:
 
 - A **custom judge function** (custom reward evaluator)
 - Task‑specific evaluation logic
 - How to guide an agent towards your own scoring criteria instead of default rewards
 
-Useful for scenarios where you want **more control over agent learning signals**, such as task‑specific QA, planning constraints, or domain priorities.
-
 ---
-
-## 🧠 What You’ll Learn
-
-By working through the notebooks, you will:
-
-- Set up and interact with ART’s client & backend training loop
-- Understand how reinforcement learning lets LLM agents *learn from experience*
-- Integrate custom scoring (judges or evaluators) for agent behavior
-- Debug, monitor, and interpret agent trajectories and reward signals
 
 ART’s design supports seamless RL integration and abstracts complex elements like environments, rollouts, and policy optimization. :contentReference[oaicite:2]{index=2}
 
