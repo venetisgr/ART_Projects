@@ -2,7 +2,7 @@
 
 This repository contains interactive Jupyter Notebooks that explore **Agent Reinforcement Trainer (ART)** — a framework for training *language model (LLM) agents* using **reinforcement learning (RL)**. The goal of this repo is to provide runnable examples of how ART can be used for training, evaluating, and experimenting with agentic workflows.
 
-ART (Agent Reinforcement Trainer) is an open‑source RL framework that helps developers train LLM‑based agents to improve performance and reliability through experience. It provides easy‑to‑use abstractions and tools for integrating RL into agent workflows — allowing agents to learn from interactions rather than relying solely on static prompts. :contentReference[oaicite:1]{index=1}
+ART (Agent Reinforcement Trainer) is an open‑source RL framework that helps developers train LLM‑based agents to improve performance and reliability through experience. It provides easy‑to‑use abstractions and tools for integrating RL into agent workflows — allowing agents to learn from interactions rather than relying solely on static prompts. 
 
 ---
 
